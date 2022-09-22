@@ -14,7 +14,7 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a PhD graduate in Econometrics and I expect to graduate around June 2023. I received profound training in big      data and advanced statistical models. My broad research experience also require me to develop proficient coding skills in        Python and R programming language.
+# bio: I am currently a PhD graduate in Econometrics and I expect to graduate around June 2023. I received profound training in          big data and advanced statistical models. My broad research experience also require me to develop proficient coding skills        in Python and R programming language.
 
 # Interests to show in About widget
 interests:
@@ -69,8 +69,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a PhD graduate in Econometrics and I expect to graduate around June 2023. I received profound training in          big data and advanced statistical models. My broad research experience also require me to develop proficient coding skills        in Python and R programming language.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
